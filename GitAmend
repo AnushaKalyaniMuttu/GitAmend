@@ -1,0 +1,4 @@
+git commit --amend
+VIM opens
+edit the commit message
+:wq
